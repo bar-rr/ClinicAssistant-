@@ -1,2 +1,2 @@
 # ClinicAssistant-
-Voice-based AI assistant for handling clinic appointments over landlines.
+Scalable AI-powered voice assistant that automates clinic appointment handling through landline integration, enabling natural GPT-4 conversations without cloud telephony.
