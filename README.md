@@ -54,17 +54,66 @@ pip install -r requirements.txt
 python clinic_assistant_v7.py
 
 
+Android (beta)
 
-# ClinicAssistant (v8 → Mobile)
-Scalable AI-powered voice assistant that automates clinic appointment handling through landline integration, enabling natural GPT-4 conversations without cloud telephony.
-## Overview
-Kısa özet + 1 görsel/gif.
+Install Android Studio (SDK 33 or higher).
 
-## Features
-- Landline/USB modem entegrasyonu
-- Android “plug-and-play” arama karşılama
-- Google Calendar entegrasyonu
-- …
+Open the /android folder as a project.
+
+Build & run on an Android device or emulator.
+
+For details, see /android/README.md.
+
+🎥 Demo
+
+📹 Watch Demo Video
+
+📸 Screenshots available in the /screenshots folder
+
+🛣️ Roadmap
+
+ Finalize v8 mobile flow
+
+ Add call recording + consent handling
+
+ Enable multi-clinic routing support
+
+ Build admin dashboard for appointment management
+
+📖 Documentation
+
+See the /docs folder for detailed documentation:
+
+Architecture.md – high-level system design
+
+API.md – API usage and integration notes
+
+FAQ.md – frequently asked questions
+
+Changelog.md – version history
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Please read CONTRIBUTING.md before submitting PRs.
+
+Bug reports and feature requests → GitHub Issues.
+
+🔒 Security
+
+If you discover a security vulnerability, please report it responsibly.
+See SECURITY.md for guidelines.
+
+📜 License
+
+This project is licensed under the Apache-2.0 License.
+© 2025 Baris Yurttas
+
+⭐ Acknowledgements
+
+This project was built as a solo founder journey, with GPT acting as CTO.
+Special thanks to clinicians who tested the assistant in real-world environments and provided invaluable feedback.
 
 ## Quick Start
 ```bash
