@@ -55,69 +55,72 @@ pip install -r requirements.txt
 python clinic_assistant_v7.py
 
 
-Android (beta)
 
-Install Android Studio (SDK 33 or higher).
+Android (planned)
 
-Open the /android folder as a project.
+🚧 The Android client is under development and not yet available.
+It will provide a mobile version of the assistant for clinics that prefer smartphone deployment.
+Stay tuned — progress will be shared in Roadmap.
 
-Build & run on an Android device or emulator.
+## 🎥 Demo
+- 📹 [Watch Demo Video](https://drive.google.com/file/d/1fSnoXweF3DPscOMT_REZauueIymp6N_P/view)  
+- 📸 Screenshots available in the [screenshots folder](./ClinicAssistant/screenshots)
 
-For details, see /android/README.md.
+---
 
-🎥 Demo
+## 🛣️ Roadmap
+- [ ] Finalize v8 mobile flow  
+- [ ] Add call recording + consent handling  
+- [ ] Enable multi-clinic routing support  
+- [ ] Build admin dashboard for appointment management  
 
-📹 Watch Demo Video
+---
 
-📸 Screenshots available in the /screenshots folder
+## 📖 Documentation
+Documentation is being prepared and will be added in future versions:
 
-🛣️ Roadmap
+- Architecture – high-level system design (coming soon)  
+- API – API usage and integration notes (coming soon)  
+- FAQ – frequently asked questions (coming soon)  
+- Changelog – version history (coming soon)  
 
- Finalize v8 mobile flow
+---
 
- Add call recording + consent handling
+## 📖 Documentation
+Documentation is being prepared and will be added in future versions:
 
- Enable multi-clinic routing support
+- Architecture – high-level system design (coming soon)  
+- API – API usage and integration notes (coming soon)  
+- FAQ – frequently asked questions (coming soon)  
+- Changelog – version history (coming soon)  
 
- Build admin dashboard for appointment management
+---
 
-📖 Documentation
+## 🤝 Contributing
+Contributions are welcome!  
+Guidelines will be published soon.  
+Bug reports and feature requests can be shared via GitHub Issues.  
 
-See the /docs folder for detailed documentation:
+---
 
-Architecture.md – high-level system design
+## 🔒 Security
+If you discover a security vulnerability, please report it responsibly.  
+A detailed security policy will be added soon.  
 
-API.md – API usage and integration notes
+---
 
-FAQ.md – frequently asked questions
-
-Changelog.md – version history
-
-🤝 Contributing
-
-Contributions are welcome!
-
-Please read CONTRIBUTING.md before submitting PRs.
-
-Bug reports and feature requests → GitHub Issues.
-
-🔒 Security
-
-If you discover a security vulnerability, please report it responsibly.
-See SECURITY.md for guidelines.
-
-📜 License
-
-This project is licensed under the Apache-2.0 License.
+## 📜 License
+This project is licensed under the **Apache-2.0 License**.  
 © 2025 Baris Yurttas
 
-⭐ Acknowledgements
+---
 
-This project was built as a solo founder journey, with GPT acting as CTO.
+## ⭐ Acknowledgements
+This project was built as a **solo founder journey**, with **GPT acting as CTO**.  
 Special thanks to clinicians who tested the assistant in real-world environments and provided invaluable feedback.
 
-## Quick Start
-```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-python clinic_assistant_v7.py
+---
+
+## ☕ Support the Project
+If you find this project useful, you can support my work here:  
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/barisy)
