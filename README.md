@@ -7,7 +7,8 @@
 > **One-man unicorn project**: An AI-powered call assistant that answers clinic phones, books/reschedules appointments via Google Calendar, and speaks naturally with patients.  
 > Built in Python, extended to Android & USB modem integration.
 
-![Social Preview](docs/social_preview_white_signature.png)
+![Social Preview]<img width="1280" height="640" alt="social_preview_white_signature" src="https://github.com/user-attachments/assets/b7ea6898-8a20-4945-8272-05b4839b9933" />
+
 
 ---
 
