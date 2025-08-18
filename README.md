@@ -126,5 +126,5 @@ If you find this project useful, you can support my work here:
 ## ☕ Support the Project
 If you find this project useful, you can support my work here:
 
-[![Buy Me a Coffee](./assets/buymeacoffee.png)](https://buymeacoffee.com/barisy)
+https://buymeacoffee.com/barisy
 
