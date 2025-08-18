@@ -39,7 +39,7 @@ Designed to run **fully offline on a clinic PC** (no cloud hosting required).
 ## 📂 Versions
 Each version is documented in its own folder:
 
-- [ClinicBot_v1](https://github.com/bar-rr/ClinicAssistant/ClinicBot_v1) – first prototype (voice → calendar) – first prototype (voice → calendar)  
+- [ClinicBot_v1](./ClinicAssistant/ClinicBot_v1/) – first prototype (voice → calendar) – first prototype (voice → calendar)  
 - - [ClinicBot_v2](https://github.com/bar-rr/ClinicAssistant-/tree/main/ClinicBot_v2) – natural conversation + rescheduling  
 - - [ClinicBot_v7](https://github.com/bar-rr/ClinicAssistant-/tree/main/ClinicBot_v7) – full confirmation loop, professional demo  
 - - [ClinicBot_v8](https://github.com/bar-rr/ClinicAssistant-/tree/main/ClinicBot_v8) – USB modem plug-and-play  
