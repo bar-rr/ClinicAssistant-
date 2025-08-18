@@ -123,6 +123,8 @@ Special thanks to clinicians who tested the assistant in real-world environments
 ## ☕ Support the Project
 If you find this project useful, you can support my work here:
 
-<a href="https://buymeacoffee.com/barisy" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
+## ☕ Support the Project
+If you find this project useful, you can support my work here:
+
+[![Buy Me a Coffee](./assets/buymeacoffee.png)](https://buymeacoffee.com/barisy)
+
