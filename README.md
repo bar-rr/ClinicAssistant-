@@ -120,11 +120,9 @@ This project was built as a **solo founder journey**, with **GPT acting as CTO**
 Special thanks to clinicians who tested the assistant in real-world environments and provided invaluable feedback.
 
 ---
-
 ## ☕ Support the Project
-If you find this project useful, you can support my work here:  
+If you find this project useful, you can support my work here:
 
-## ☕ Support the Project
-If you find this project useful, you can support my work here:  
-
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/barisy)
+<a href="https://buymeacoffee.com/barisy" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
