@@ -46,7 +46,8 @@ Each version is documented in its own folder:
 - [ClinicBot_v1](./ClinicAssistant/ClinicBot_v1/) – first prototype (voice → calendar)  
 - [ClinicBot_v2](./ClinicAssistant/ClinicBot_v2/) – natural conversation + rescheduling  
 - [ClinicBot_v7](./ClinicAssistant/ClinicBot_v7/) – full confirmation loop, professional demo  
-- [ClinicBot_v8](./ClinicAssistant/ClinicBot_v8/) – USB modem plug-and-play  
+- [ClinicBot_v8](./ClinicAssistant/ClinicBot_v8/) – USB modem plug-and-play
+- [ClinicBot_v9](./ClinicAssistant/ClinicBot_v9/) – mobile-first Android release with auto-answer, GPT-powered live conversation, and direct Google Calendar sync  
 
 ---
 
